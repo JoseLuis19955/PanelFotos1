@@ -1,0 +1,9 @@
+Package: com.panelfotos.app
+Name: Panel Fotos
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: Panel de fotos: mueve, haz zoom y gira tus fotos libremente
+Maintainer: Tu Nombre
+Author: Tu Nombre
+Section: Utilities
+Depends: firmware (>= 15.0)
